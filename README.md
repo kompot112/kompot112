@@ -116,7 +116,7 @@ project = {
 ## 🤝 Связаться со мной
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=500&lines=📫+Telegram%3A+%40your_telegram;📧+Email%3A+your%40email.com;💼+LinkedIn%3A+your-profile;🌐+Portfolio%3A+your-site.com" alt="Contact Info" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=500&lines=📫+Telegram%3A+%40vonaimed;📧+Email%3A+xtrayd@gmail.com;🌐+Portfolio%3A+vonaimed.ru" alt="Contact Info" />
 </div>
 
 ---
