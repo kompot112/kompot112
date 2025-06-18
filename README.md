@@ -100,15 +100,7 @@ project = {
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=500&lines=📫+Telegram%3A+%40vonaimed;📧+Email%3A+xtrayd@gmail.com;🌐+Portfolio%3A+vonaimed.ru" alt="Contact Info" />
 </div>
 
----
 
-<div align="center">
-
-### 💭 Философия кода
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=%22Код+должен+быть+чистым%2C+как+поэзия%22;%22Лучший+код+—+тот%2C+который+не+нужно+объяснять%22;%22Отладка+—+это+искусство+детектива%22" alt="Code Philosophy" />
-
-</div>
 
 ---
 
