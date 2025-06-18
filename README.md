@@ -6,24 +6,6 @@
 
 ---
 
-## 🧙‍♂️ Обо мне
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Твое имя"
-        self.role = "Fullstack Developer"
-        self.location = "Где-то в коде"
-        self.passion = ["Clean Code", "Problem Solving", "New Technologies"]
-        
-    def say_hi(self):
-        print("Привет! Давайте создадим что-то крутое вместе!")
-
-me = Developer()
-me.say_hi()
-```
-
----
 
 ## 🛠️ Мой технологический стек
 
